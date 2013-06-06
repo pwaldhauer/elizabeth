@@ -1,5 +1,5 @@
 {
-	
+
 	"name": "elizabeth",
 	"version": "0.0.1",
 	"description": "A small tool to export data from Moves.app.",
@@ -15,7 +15,8 @@
 		"optimist": "*",
 		"nconf": "*",
 		"prompt": "*",
-		"underscore": "*"
+		"underscore": "*",
+		"path-extra": "*"
 	},
 
 	"author": {
