@@ -12,7 +12,7 @@ Usage
 
 * Prerequisites: Install NodeJS
 
-* Install it by cloning the Repo, downloading the .zip file or using npm install (COMING SOON)
+* Install it by cloning the Repo, downloading the .zip file or using `npm install -g elizabeth`
 * Use `npm install` to install the dependencies
 * Use `./ellie.js` (or just `ellie` if installed via npm) to see usage information
 * Configure your instance using `ellie init`
