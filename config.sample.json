@@ -1,0 +1,15 @@
+{
+  "moves": {
+    "clientId": "",
+    "clientSecret": "",
+    "redirectUri": "http://localhost:3000/auth"
+  },
+  "defaults": {
+    "output": "PlaintextExport",
+    "outputFile": "%date%_plaintext.txt",
+    "days": "7"
+  },
+  "system": {
+    "port": 3000
+  }
+}

@@ -1,0 +1,27 @@
+{
+	
+	"name": "elizabeth",
+	"version": "0.0.1",
+	"description": "A small tool to export data from Moves.app.",
+	"main": "ellie.js",
+	"bin": {
+		"ellie": "ellie.js"
+	},
+
+	"dependencies": {
+		"express": "*",
+		"request": "*",
+		"moment": "*",
+		"optimist": "*",
+		"nconf": "*",
+		"prompt": "*",
+		"underscore": "*"
+	},
+
+	"author": {
+		"name": "Philipp Waldhauer",
+		"email": "ich@philippwaldhauer.de",
+		"url": "http://knuspermagier.de"
+	}
+
+}
