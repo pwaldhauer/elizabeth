@@ -1,7 +1,7 @@
 {
 
 	"name": "elizabeth",
-	"version": "0.0.3",
+	"version": "0.1.0",
 	"description": "A small tool to export data from Moves.app.",
 	"main": "ellie.js",
 	"bin": {
@@ -17,7 +17,9 @@
 		"nconf": "*",
 		"prompt": "*",
 		"underscore": "*",
-		"path-extra": "*"
+		"path-extra": "*",
+		"plist": "*",
+		"hat": "*"
 	},
 
 	"author": {
