@@ -9,17 +9,17 @@
 	},
 
 	"dependencies": {
-		"moves-api": "*",
-		"express": "*",
-		"request": "*",
-		"moment": "*",
+		"moves-api": "0.0.2",
+		"express": "4.7.2",
+		"request": "2.39.0",
+		"moment": "2.8.1",
 		"optimist": "*",
-		"nconf": "*",
-		"prompt": "*",
-		"underscore": "*",
+		"nconf": "0.6.9",
+		"prompt": "0.2.13",
+		"underscore": "1.6.0",
 		"path-extra": "*",
-		"plist": "*",
-		"hat": "*"
+		"dayone": "0.0.4",
+		"hat": "0.0.3"
 	},
 
 	"author": {
