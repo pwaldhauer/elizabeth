@@ -17,7 +17,7 @@
 		"nconf": "0.6.9",
 		"prompt": "0.2.13",
 		"underscore": "1.6.0",
-		"path-extra": "*",
+		"ospath": "1.2.2",
 		"dayone": "0.0.4",
 		"hat": "0.0.3"
 	},
