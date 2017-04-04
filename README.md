@@ -20,6 +20,8 @@ Usage
 Included exporters
 ------------------
 
+* **LocationExport**: Exports a short day summary only of locations as plain text.
+
 * **GoogleMapExport**: Exports the days activity as a Google Map, using the Static Map API.
 
     ![Sample image](https://s3-eu-west-1.amazonaws.com/knusperfiles/elliemap.png)
