@@ -9,7 +9,7 @@
 	},
 
 	"dependencies": {
-		"moves-api": "0.0.2",
+		"moves-api": "0.0.4",
 		"express": "4.7.2",
 		"request": "2.39.0",
 		"moment": "2.8.1",
