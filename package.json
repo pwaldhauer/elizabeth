@@ -16,7 +16,7 @@
     "ospath": "1.2.2",
     "prompt": "1.0.0",
     "request": "2.81.0",
-    "underscore": "1.6.0"
+    "underscore": "1.8.3"
   },
   "author": {
     "name": "Philipp Waldhauer",
