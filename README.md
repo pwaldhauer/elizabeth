@@ -22,6 +22,14 @@ Included exporters
 
 * **LocationExport**: Exports a short day summary only of locations as plain text.
 
+  This export produces a single file for a range of dates (up to a month). This is especially
+  useful, when you want to know where you have been to in the last calendar month eg. for incoicing clients.
+
+  ```
+  ellie export --lastMonth --output LocationExport --outputFile "export.txt"
+  cat export.txt | grep -i -e "client1" -e "client2"
+  ```
+
 * **GoogleMapExport**: Exports the days activity as a Google Map, using the Static Map API.
 
     ![Sample image](https://s3-eu-west-1.amazonaws.com/knusperfiles/elliemap.png)
