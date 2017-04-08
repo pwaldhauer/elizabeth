@@ -7,7 +7,7 @@
     "ellie": "ellie.js"
   },
   "dependencies": {
-    "express": "4.7.2",
+    "express": "4.15.2",
     "hat": "0.0.3",
     "moment": "2.18.1",
     "moves-api": "0.0.4",
