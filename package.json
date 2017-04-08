@@ -9,7 +9,7 @@
   "dependencies": {
     "express": "4.7.2",
     "hat": "0.0.3",
-    "moment": "2.8.1",
+    "moment": "2.18.1",
     "moves-api": "0.0.4",
     "nconf": "0.6.9",
     "optimist": "*",
