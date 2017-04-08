@@ -14,7 +14,7 @@
     "nconf": "0.8.4",
     "optimist": "*",
     "ospath": "1.2.2",
-    "prompt": "0.2.13",
+    "prompt": "1.0.0",
     "request": "2.39.0",
     "underscore": "1.6.0"
   },
