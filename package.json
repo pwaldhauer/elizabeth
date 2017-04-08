@@ -12,7 +12,7 @@
     "moment": "2.18.1",
     "moves-api": "0.0.4",
     "nconf": "0.8.4",
-    "optimist": "*",
+    "optimist": "0.6.1",
     "ospath": "1.2.2",
     "prompt": "1.0.0",
     "request": "2.81.0",
