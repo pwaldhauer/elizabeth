@@ -1,31 +1,26 @@
 {
-
-	"name": "elizabeth",
-	"version": "0.2.0",
-	"description": "A small tool to export data from Moves.app.",
-	"main": "ellie.js",
-	"bin": {
-		"ellie": "ellie.js"
-	},
-
-	"dependencies": {
-		"moves-api": "0.0.2",
-		"express": "4.7.2",
-		"request": "2.39.0",
-		"moment": "2.8.1",
-		"optimist": "*",
-		"nconf": "0.6.9",
-		"prompt": "0.2.13",
-		"underscore": "1.6.0",
-		"path-extra": "*",
-		"dayone": "0.0.4",
-		"hat": "0.0.3"
-	},
-
-	"author": {
-		"name": "Philipp Waldhauer",
-		"email": "ich@philippwaldhauer.de",
-		"url": "http://knuspermagier.de"
-	}
-
+  "name": "elizabeth",
+  "version": "0.2.0",
+  "description": "A small tool to export data from Moves.app.",
+  "main": "ellie.js",
+  "bin": {
+    "ellie": "ellie.js"
+  },
+  "dependencies": {
+    "express": "4.15.2",
+    "hat": "0.0.3",
+    "moment": "2.18.1",
+    "moves-api": "0.0.4",
+    "nconf": "0.8.4",
+    "optimist": "0.6.1",
+    "ospath": "1.2.2",
+    "prompt": "1.0.0",
+    "request": "2.81.0",
+    "underscore": "1.8.3"
+  },
+  "author": {
+    "name": "Philipp Waldhauer",
+    "email": "ich@philippwaldhauer.de",
+    "url": "http://knuspermagier.de"
+  }
 }
